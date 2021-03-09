@@ -14,3 +14,4 @@ You have the following CLI commands available:
 - `npm run build` Builds the project css files as stated in the package.json
 
 - `npm start` Runs the project and serves it on http://localhost:8080 (via live-server)
+
